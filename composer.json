@@ -1,0 +1,20 @@
+{
+    "name": "iacobales/themarketerplugin",
+    "description": "This is a package for the company themarketer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Iacobales\\Themarketerplugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Iacob Alexandru",
+            "email": "iacobalex11@yahoo.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^10.0"
+    }
+}
